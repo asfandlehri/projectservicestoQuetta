@@ -1,0 +1,7 @@
+{
+  "name": "LocalService Connect",
+  "description": "A comprehensive local home services hiring platform connecting clients with plumbers, electricians, mechanics, and repair technicians with real-time tracking and simple booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
